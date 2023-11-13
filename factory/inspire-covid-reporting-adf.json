@@ -1,0 +1,9 @@
+{
+	"name": "inspire-covid-reporting-adf",
+	"location": "canadaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b056661d-2c58-4de2-85ac-bd1e53801a1d",
+		"tenantId": "e24ac094-efd8-4a6b-98d5-a129b32a8c9a"
+	}
+}
